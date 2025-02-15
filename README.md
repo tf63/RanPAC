@@ -82,4 +82,4 @@ Five of the datasets tested on are specific splits and/or subsets of the full or
 ## Acknowledgment
 This repo is based on aspects of https://github.com/zhoudw-zdw/RevisitingCIL
 
-The implemenations of parameter-efficient tuning methods are based on [VPT](https://github.com/sagizty/VPT), [AdaptFormer](https://github.com/ShoufaChen/AdaptFormer), and [SSF](https://github.com/dongzelian/SSF).
+The implementations of parameter-efficient tuning methods are based on [VPT](https://github.com/sagizty/VPT), [AdaptFormer](https://github.com/ShoufaChen/AdaptFormer), and [SSF](https://github.com/dongzelian/SSF).
